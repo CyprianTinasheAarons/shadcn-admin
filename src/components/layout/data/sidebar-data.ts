@@ -59,23 +59,23 @@ export const sidebarData: SidebarData = {
         },
         {
           title: 'Tasks',
-          url: '/tasks',
+          url: '/tasks/',
           icon: ListTodo,
         },
         {
           title: 'Apps',
-          url: '/apps',
+          url: '/apps/',
           icon: Package,
         },
         {
           title: 'Chats',
-          url: '/chats',
+          url: '/chats/',
           badge: '3',
           icon: MessagesSquare,
         },
         {
           title: 'Users',
-          url: '/users',
+          url: '/users/',
           icon: Users,
         },
         {
@@ -169,7 +169,7 @@ export const sidebarData: SidebarData = {
           items: [
             {
               title: 'Profile',
-              url: '/settings',
+              url: '/settings/',
               icon: UserCog,
             },
             {
@@ -196,7 +196,7 @@ export const sidebarData: SidebarData = {
         },
         {
           title: 'Help Center',
-          url: '/help-center',
+          url: '/help-center/',
           icon: HelpCircle,
         },
       ],
